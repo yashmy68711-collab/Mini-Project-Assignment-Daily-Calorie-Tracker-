@@ -46,4 +46,4 @@ with open("session_log.txt", "a") as file:
         file.write(f"Within limit, {limit - total_calories} calories remaining.\n")
     file.write("-"*30 + "\n")
 
-print("\nSession saved to 'session_log.txt'.")
+
